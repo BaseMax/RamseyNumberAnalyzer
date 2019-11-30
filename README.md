@@ -11,7 +11,9 @@ Less results are better colors.
 
 > If we found a colorize with 0 result, So R(5,5) is 43.
 
-## Test 1
+## Ramsey Test 1
+
+Production of 5,000 random colors:
 
 | Name  | Value |
 | ----- | ---- | 
@@ -27,7 +29,12 @@ Less results are better colors.
 | Mode |	56788 |
 | Repeat < average	| 2748 |
 
-## Test 2
+#### [View colors results](1/graph-rank-result.txt)
+#### [View all colors of edges](1/graph-result.txt)
+
+## Ramsey Test 2
+
+Production of 10,054 random colors:
 
 | Name  | Value |
 | ----- | ---- | 
@@ -42,6 +49,9 @@ Less results are better colors.
 | Repeat > average |	4579 |
 | Mode |	58255 |
 | Repeat < average	| 5473 |
+
+#### [View colors results](2/graph-rank-result.txt)
+#### [View all colors of edges](2/graph-result.txt)
 
 
 # Ramsey Number R(5,5)
