@@ -1,8 +1,20 @@
-# Ramsey Number R(5,5)
-
 # Ramsey Number Analyzer
 
 A program to analyze and check a specific colorize in Ramsey Number **R(5, 5)**.
+
+## Features
+
+- Analyze randomly colors
+- Run for a specific colorize
+
+Less results are better colors.
+
+> If we found a colorize with 0 result, So R(5,5) is 43.
+
+# Ramsey Number R(5,5)
+
+The goal is to focus on solving a problem that hasn't been answered for more than 20 years.
+At least we should be able to improve it or come near of result.
 
 # The Ramsey numbers R(s,t)
 
