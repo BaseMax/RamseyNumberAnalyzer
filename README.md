@@ -1,3 +1,5 @@
+# Ramsey Number R(5,5)
+
 # Ramsey Number Analyzer
 
 A program to analyze and check a specific colorize in Ramsey Number **R(5, 5)**.
@@ -5,6 +7,8 @@ A program to analyze and check a specific colorize in Ramsey Number **R(5, 5)**.
 # The Ramsey numbers R(s,t)
 
 The Ramsey number R(s, t) is defined to be the smallest n such that every graph of order n contains either a clique of s vertices or an independent set of t vertices. Understanding the values of R(s,t) is among the most important, fruitful, and frustrating questions in combinatorics.
+
+# R(5,5)
 
 # 43 ≤ R(5,5) ≤ 48
 
@@ -16,7 +20,8 @@ The best known lower bound of 42 was established  by Exoo in 1989.  The previous
 
 By this 4-days old theorem we now have 43 ≤ R(5, 5) ≤ 48. Brendan and Vigleik write “The actual value of R(5, 5) is widely believed to be 43, because a lot of computer resources have been expended in an unsuccessful attempt to construct a Ramsey (5,5)-graph of order 43.” 
 
-# R(4,5) =25
+# R(4,5) = 25
+
 In 1995 Brendan McKay and Stanislaw Radziszowski famously proved that R(4, 5) = 25. Listing all graphs with 24 vertices which admit a coloring without a clique on 5 vertices or an independent set with 4 vertices is a major part of the current proof.
 
 Here is, more or less,  how Greg described the achievement on FB: How many people can you have at a party such that no 5 are all acquainted and no 5 are all strangers? It has been known for nearly 30 years that 42 people is possible, and known for 20 years that 49 is not possible. The momentous news  is that 48 is also not possible.
