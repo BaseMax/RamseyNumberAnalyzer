@@ -11,6 +11,25 @@ Less results are better colors.
 
 > If we found a colorize with 0 result, So R(5,5) is 43.
 
+## Test 1
+
+## Test 2
+
+| Name  | Value |
+| ----- | ---- | 
+| Min |	50687 |
+| Repeat min |	1 |
+| Max |	88164 |
+| Repeat max | 	1 |
+| Sum | 	604532396 |
+| Average |	6042.061247 |
+| Repeat average |	1 |
+| Median | 	63869 |
+| Repeat > average |	4579 |
+| Mode |	58255 |
+| Repeat < average	| 5473 |
+
+
 # Ramsey Number R(5,5)
 
 The goal is to focus on solving a problem that hasn't been answered for more than 20 years.
