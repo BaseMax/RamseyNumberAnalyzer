@@ -13,6 +13,20 @@ Less results are better colors.
 
 ## Test 1
 
+| Name  | Value |
+| ----- | ---- | 
+| Min |	50687 |
+| Repeat min |	1 |
+| Max |	87573 |
+| Repeat max | 	1 |
+| Sum | 	300527812 |
+| Average |	60105.5624 |
+| Repeat average |	1 |
+| Median | 	59623 |
+| Repeat > average |	2250 |
+| Mode |	56788 |
+| Repeat < average	| 2748 |
+
 ## Test 2
 
 | Name  | Value |
